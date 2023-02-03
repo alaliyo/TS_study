@@ -1,0 +1,8 @@
+{
+    "include": ["src"],
+    "compilerOptions": {
+        "outDir": "bulid",
+        "target": "es6",
+        "lib": ["ES6", "DOM"]
+    }
+}
