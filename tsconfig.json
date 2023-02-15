@@ -4,6 +4,7 @@
         "outDir": "bulid",
         "target": "ES6",
         "lib": ["ES6", "DOM"],
-        "strict": true
+        "strict": true,
+        "allowJs": true
     }
 }
